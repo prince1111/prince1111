@@ -10,15 +10,19 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love listening to music, Love looking up recipes to try out different dishes, I'm more productive at home
 
+--
+## About Me
 With a strong educational background from AltSchool Africa and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, GCP, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
 
 Over the year I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view of ways to solve problems that drive the company’s growth and stability.
 
 I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (GCP, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
 
-My Skills includes:
+--
 
-Technical Skills:
+# My Skills includes:
+
+## Technical Skills:
 - Programming Languages: Python, SQL
 - Big Data Technologies/ETL Tools: Apache Beam, Apache Airflow, dbt
 - Database Management Systems: PostgreSQL, MongoDB
@@ -29,6 +33,8 @@ Technical Skills:
 - Messaging Service: Google Pub/Sub
 - Data Visualization: Looker
 - Version Control: Git, GitHub
+
+
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,6 +54,19 @@ Technical Skills:
      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
 </p>
+
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+--
+
+## Certifications 
+🎓 Certifications
+<div> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Juniper_Networks_Certified-007DA9?&style=for-the-badge&logo=Juniper-Networks&logoColor=white" /> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-CCNP-FF5733?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
 
 
 
