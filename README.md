@@ -2,22 +2,33 @@
 ![image](https://github.com/user-attachments/assets/2ce47b3e-8c1f-438d-a304-9b9217d42ecc)
 
 
-<!-- <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/olayinkaakerekan/" target="_blank"> Olayinka Akerekan </a></h1> -->
-<h1 align="center">About Me ⚡</h1>
+- 🔭 I’m currently working on getting a job as a Data Engineer
+- 👯 I’m looking to collaborate on any and all projects
+- 🤔 I’m looking for help with Data tasks
+- 💬 Ask me about: Data Engineering
+- 📫 How to reach me: krissemmy17@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Love listening to music, Love looking up recipes to try out different dishes, I'm more productive at home
 
-I am a **Data Engineer** passionate about **solving problems** using **technologies**. I ensure that data systems are optimized and function effectively. My interest varies from generating great insights from your data to maximizing **business profitability**. I work in healthcare and love reading about Stoicism and Christianity . 
+With a strong educational background from AltSchool Africa and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, GCP, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
 
-<h3 align="center"> Data Analyst | Data Scientist  | Machine Learning | Data Engineer</h3>
+Over the year I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view of ways to solve problems that drive the company’s growth and stability.
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=oakerekan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Taiwrash" /></p></h3>
-   <div align="center">
+I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (GCP, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
 
-<h1>Technical Skills 🛠</h1>
-   
-Languages: Python, R, SQL.
-Soft Skills: Communication, Problem-Solving, Agile Technology, Teamwork, Presentation Skills.<br>
-Technologies: Git, Bash, PostgreSQL, MongoDB, Machine Learning, Pandas, Tensorflow, AWS, dbt. 
+My Skills includes:
 
+Technical Skills:
+- Programming Languages: Python, SQL
+- Big Data Technologies/ETL Tools: Apache Beam, Apache Airflow, dbt
+- Database Management Systems: PostgreSQL, MongoDB
+- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- Data Lake: Amazon s3, Google Cloud Storage
+- Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
+- Serverless Data Processing: Dataflow
+- Messaging Service: Google Pub/Sub
+- Data Visualization: Looker
+- Version Control: Git, GitHub
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
