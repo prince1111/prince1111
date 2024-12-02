@@ -66,8 +66,16 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 ## 🎓  **Certifications**
 
+<div align="center">
+
 ![image](https://github.com/prince1111/prince1111/blob/main/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png?raw=true)
-![image](https://github.com/prince1111/prince1111/blob/main/image%20(3)%20Medium.png?raw=true)
+
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+
+![image](https://github.com/prince1111/prince1111/blob/main/image_2_300x300.png?raw=true)
+
+</div>   
+
 
 
 
