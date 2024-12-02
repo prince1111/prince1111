@@ -6,11 +6,11 @@
 - 👯 I’m looking to collaborate on any and all projects
 - 🤔 I’m looking for help with Data tasks
 - 💬 Ask me about: Data Engineering
-- 📫 How to reach me: krissemmy17@gmail.com
+- 📫 How to reach me: anuajimafowoku@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love listening to music, Love looking up recipes to try out different dishes, I'm more productive at home
 
---
+
 ## About Me
 With a strong educational background from AltSchool Africa and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, GCP, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
 
@@ -18,7 +18,7 @@ Over the year I have engaged myself in projects that bring together data science
 
 I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (GCP, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
 
---
+
 
 # My Skills includes:
 
